@@ -1,6 +1,6 @@
 {
   "name": "portfolio-app",
-  "homepage": "http://ripamkundu.github.io/PortFolio",
+  "homepage": "http://ripamkundu.github.io/portfolio-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
