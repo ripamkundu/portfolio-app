@@ -1,0 +1,36 @@
+
+.about .box {
+    padding: 50px;
+    margin-top: auto;
+  }
+  .about .box h2 {
+    margin: 20px 0 20px 0;
+  }
+  .about .box p {
+    word-spacing: 2px;
+    transition: 0.5s;
+  }
+  .about .box i {
+    font-size: 30px;
+    margin-top: 20px;
+    transition: 0.5s;
+    opacity: 0;
+  }
+  .about .box:hover p {
+    color: white;
+  }
+  .about .box:hover i {
+    color: white;
+    opacity: 1;
+  }
+  @media screen and (max-width: 768px) {
+    .container {
+      flex-direction: column; 
+    }
+
+  .container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  }
+  

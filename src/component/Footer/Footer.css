@@ -1,0 +1,26 @@
+.footer {
+    background-color: #010000;
+    color: #fff;
+    padding: 30px 0 ;
+    text-align: center;
+    margin-bottom: auto;
+    margin-top: 10px;
+  }
+  
+  .footer-container {
+    max-width: 1000px;
+    margin: 0 auto;
+    text-shadow: #fff;
+
+  }
+  
+  .social-links a {
+    font-size: 24px;
+    color: #fff;
+    margin-right: 15px;
+  }
+  .copy-right {
+    margin-top: 10px;
+    color: #fff;
+  }
+  
